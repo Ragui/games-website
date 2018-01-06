@@ -131,6 +131,7 @@
 //						+board.getCell(i, j)+"\"/>";
 				}
 			}
+			
 			res += ("<br>");	
 		}
 		res += ("</form>");
